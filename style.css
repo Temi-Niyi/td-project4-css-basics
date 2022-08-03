@@ -1,0 +1,130 @@
+.header{
+    background-color: #007297;
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    display: flex;
+    padding-left: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.name{
+
+    padding-right: 40%;
+}
+.header p{
+    padding-left: 5%;
+    color: white;
+ }
+
+.name{
+    font-size: 20px;
+    margin-left: 0px;
+}
+
+img{
+    border-radius: 50%;
+    margin-top: 5%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    width: 250px;
+}
+.About h1{
+    color: #007297;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+.About p, span{
+    margin-top: 20px;
+    margin:auto;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    color: white;
+    margin-top: 5%;
+    background-color: #007297;
+    display: flex;
+    justify-content: space-around;
+    padding:10%
+}
+.information{
+    padding-left: 10%;
+    width: 40%;
+}
+
+.information :nth-child(1){
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.description{
+    font-size: 30px;
+    width: 40%;
+}
+
+h2{
+    color: #007297;
+    font-size: 30px;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.skills{
+    margin-top: 2%;
+    color: white;
+    display: flex;
+    margin-right: 10%;
+    margin-bottom: 2% ;
+    justify-content: center;
+}
+.skills div{
+    box-shadow: 1px 1px 1px 1px grey;
+    background-color:darkslategrey;
+    border-radius: 20px;
+    margin-left: 10%;
+    height: 180px;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+ }
+
+.footer{
+    margin-top: 10%;
+    font-size: 20px;
+    padding: 2%;
+    color: white;
+    background-color: #007297;
+    text-align: center;
+}
+
+.footer :nth-child(2){
+    font-size: 24px;
+}
+
+.logo{
+    opacity: 0.7;
+}
+.fa {
+    font-size: 24px;
+    padding: 3px;
+    text-align: center;
+    margin: 2px 8px;
+    align-items: center;
+    color: #3AE4FF;
+}
+
+.fa:hover {
+    opacity: .1;
+}
+.logo :nth-child(5){
+    margin-top: 60px;
+    font-size: 16px;
+}
